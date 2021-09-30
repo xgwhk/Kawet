@@ -2,8 +2,16 @@ Arduino - easy capacitive touch setup
 =====================================
 	https://www.youtube.com/watch?v=lqg_Ze_OiiY
 
+Hardware set-up
+===============
+	https://www.instructables.com/DIY-Touch-Sensor/
+
 Specific Hardware
 =================
 	https://learn.adafruit.com/adafruit-capacitive-touch-sensor-breakouts/build-a-capacitive-touch-control-panel
 	https://www.aliexpress.com/item/1005002117377236.html
-	
+	https://www.aliexpress.com/item/1005001975130992.html
+
+how it works
+============
+	https://www.homemade-circuits.com/simple-touch-sensor-switch-circuit
