@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="240.40001mm"
+   viewBox="0 0 240.40002 240.40002"
+   width="240.40001mm"
+   version="1.1"
+   id="svg363"
+   sodipodi:docname="Large box for large round push button with Light - part1a.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs367" />
+  <sodipodi:namedview
+     id="namedview365"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.20683796"
+     inkscape:cx="679.2757"
+     inkscape:cy="848.49029"
+     inkscape:window-width="1551"
+     inkscape:window-height="836"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg363"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="20.196748,245.0541"
+       orientation="1,0"
+       id="guide1870" />
+    <sodipodi:guide
+       position="33.677922,220.40578"
+       orientation="0,-1"
+       id="guide1872" />
+    <sodipodi:guide
+       position="35.311074,20.493605"
+       orientation="0,-1"
+       id="guide1874" />
+    <sodipodi:guide
+       position="219.87212,247.11573"
+       orientation="1,0"
+       id="guide1876" />
+  </sodipodi:namedview>
+  <!--
+TypeTray - Type tray - allows only continuous walls
+
+Created with Boxes.py (https://festi.info/boxes.py)
+Creation date: 2021-09-21 10:44:13
+Command line (remove spaces between dashes): boxes TypeTray - -FingerJoint_angle=90.0 - -FingerJoint_style=rectangular - -FingerJoint_surroundingspaces=0.5 - -FingerJoint_edge_width=1.0 - -FingerJoint_finger=2.0 - -FingerJoint_play=0.0 - -FingerJoint_space=2.0 - -FingerJoint_width=1.0 - -Stackable_angle=60 - -Stackable_height=2.0 - -Stackable_holedistance=1.0 - -Stackable_width=4.0 - -Hinge_grip_percentage=0 - -Hinge_outset=0 - -Hinge_pinwidth=0.5 - -Hinge_style=outset - -Hinge_axle=2 - -Hinge_grip_length=0 - -Hinge_hingestrength=1 - -CabinetHinge_bore=3.2 - -CabinetHinge_eyes_per_hinge=5 - -CabinetHinge_hinges=2 - -CabinetHinge_style=inside - -CabinetHinge_eye=1.5 - -CabinetHinge_play=0.05 - -CabinetHinge_spacing=2.0 - -Lid_angle=90.0 - -Lid_hole_width=0 - -Lid_second_pin=0 - -Lid_second_pin=1 - -Lid_spring=both - -Lid_style=rectangular - -Lid_surroundingspaces=2.0 - -Lid_edge_width=1.0 - -Lid_finger=3.0 - -Lid_play=0.05 - -Lid_space=2.0 - -Lid_width=1.0 - -Click_angle=5.0 - -Click_bottom_radius=0.1 - -Click_depth=3.0 - -RoundedTriangleEdge_height=150.0 - -RoundedTriangleEdge_r_hole=2.0 - -RoundedTriangleEdge_radius=30.0 - -RoundedTriangleEdge_outset=1 '- -sx=120*2' '- -sy=120*2' - -h=110.0 - -hi=0.0 - -outside=0 - -outside=1 - -bottom_edge=h - -top_edge=e - -gripheight=30 - -gripwidth=70 - -thickness=2.8 - -format=svg - -tabs=0.0 - -debug=0 - -labels=0 - -labels=1 - -reference=0 - -burn=0.1
+Url: http://www.festi.info/TypeTray?FingerJoint_angle=90.0&FingerJoint_style=rectangular&FingerJoint_surroundingspaces=0.5&FingerJoint_edge_width=1.0&FingerJoint_finger=2.0&FingerJoint_play=0.0&FingerJoint_space=2.0&FingerJoint_width=1.0&Stackable_angle=60&Stackable_height=2.0&Stackable_holedistance=1.0&Stackable_width=4.0&Hinge_grip_percentage=0&Hinge_outset=0&Hinge_pinwidth=0.5&Hinge_style=outset&Hinge_axle=2&Hinge_grip_length=0&Hinge_hingestrength=1&CabinetHinge_bore=3.2&CabinetHinge_eyes_per_hinge=5&CabinetHinge_hinges=2&CabinetHinge_style=inside&CabinetHinge_eye=1.5&CabinetHinge_play=0.05&CabinetHinge_spacing=2.0&Lid_angle=90.0&Lid_hole_width=0&Lid_second_pin=0&Lid_second_pin=1&Lid_spring=both&Lid_style=rectangular&Lid_surroundingspaces=2.0&Lid_edge_width=1.0&Lid_finger=3.0&Lid_play=0.05&Lid_space=2.0&Lid_width=1.0&Click_angle=5.0&Click_bottom_radius=0.1&Click_depth=3.0&RoundedTriangleEdge_height=150.0&RoundedTriangleEdge_r_hole=2.0&RoundedTriangleEdge_radius=30.0&RoundedTriangleEdge_outset=1&sx=120*2&sy=120*2&h=110.0&hi=0.0&outside=0&outside=1&bottom_edge=h&top_edge=e&gripheight=30&gripwidth=70&thickness=2.8&format=svg&tabs=0.0&debug=0&labels=0&labels=1&reference=0&burn=0.1&render=1
+SettingsUrl: http://www.festi.info/TypeTray?FingerJoint_angle=90.0&FingerJoint_style=rectangular&FingerJoint_surroundingspaces=0.5&FingerJoint_edge_width=1.0&FingerJoint_finger=2.0&FingerJoint_play=0.0&FingerJoint_space=2.0&FingerJoint_width=1.0&Stackable_angle=60&Stackable_height=2.0&Stackable_holedistance=1.0&Stackable_width=4.0&Hinge_grip_percentage=0&Hinge_outset=0&Hinge_pinwidth=0.5&Hinge_style=outset&Hinge_axle=2&Hinge_grip_length=0&Hinge_hingestrength=1&CabinetHinge_bore=3.2&CabinetHinge_eyes_per_hinge=5&CabinetHinge_hinges=2&CabinetHinge_style=inside&CabinetHinge_eye=1.5&CabinetHinge_play=0.05&CabinetHinge_spacing=2.0&Lid_angle=90.0&Lid_hole_width=0&Lid_second_pin=0&Lid_second_pin=1&Lid_spring=both&Lid_style=rectangular&Lid_surroundingspaces=2.0&Lid_edge_width=1.0&Lid_finger=3.0&Lid_play=0.05&Lid_space=2.0&Lid_width=1.0&Click_angle=5.0&Click_bottom_radius=0.1&Click_depth=3.0&RoundedTriangleEdge_height=150.0&RoundedTriangleEdge_r_hole=2.0&RoundedTriangleEdge_radius=30.0&RoundedTriangleEdge_outset=1&sx=120*2&sy=120*2&h=110.0&hi=0.0&outside=0&outside=1&bottom_edge=h&top_edge=e&gripheight=30&gripwidth=70&thickness=2.8&format=svg&tabs=0.0&debug=0&labels=0&labels=1&reference=0&burn=0.1
+-->
+  <title
+     id="title2">TypeTray</title>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:title>Tray - TypeTray</dc:title>
+        <dc:date>2021-09-21 10:44:13</dc:date>
+        <dc:source>http://www.festi.info/TypeTray?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=0.5&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.0&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;Stackable_angle=60&amp;Stackable_height=2.0&amp;Stackable_holedistance=1.0&amp;Stackable_width=4.0&amp;Hinge_grip_percentage=0&amp;Hinge_outset=0&amp;Hinge_pinwidth=0.5&amp;Hinge_style=outset&amp;Hinge_axle=2&amp;Hinge_grip_length=0&amp;Hinge_hingestrength=1&amp;CabinetHinge_bore=3.2&amp;CabinetHinge_eyes_per_hinge=5&amp;CabinetHinge_hinges=2&amp;CabinetHinge_style=inside&amp;CabinetHinge_eye=1.5&amp;CabinetHinge_play=0.05&amp;CabinetHinge_spacing=2.0&amp;Lid_angle=90.0&amp;Lid_hole_width=0&amp;Lid_second_pin=0&amp;Lid_second_pin=1&amp;Lid_spring=both&amp;Lid_style=rectangular&amp;Lid_surroundingspaces=2.0&amp;Lid_edge_width=1.0&amp;Lid_finger=3.0&amp;Lid_play=0.05&amp;Lid_space=2.0&amp;Lid_width=1.0&amp;Click_angle=5.0&amp;Click_bottom_radius=0.1&amp;Click_depth=3.0&amp;RoundedTriangleEdge_height=150.0&amp;RoundedTriangleEdge_r_hole=2.0&amp;RoundedTriangleEdge_radius=30.0&amp;RoundedTriangleEdge_outset=1&amp;sx=120*2&amp;sy=120*2&amp;h=110.0&amp;hi=0.0&amp;outside=0&amp;outside=1&amp;bottom_edge=h&amp;top_edge=e&amp;gripheight=30&amp;gripwidth=70&amp;thickness=2.8&amp;format=svg&amp;tabs=0.0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=0&amp;burn=0.1&amp;render=1</dc:source>
+        <dc:description>Type tray - allows only continuous walls
+
+Created with Boxes.py (https://festi.info/boxes.py)
+Command line: boxes TypeTray --FingerJoint_angle=90.0 --FingerJoint_style=rectangular --FingerJoint_surroundingspaces=0.5 --FingerJoint_edge_width=1.0 --FingerJoint_finger=2.0 --FingerJoint_play=0.0 --FingerJoint_space=2.0 --FingerJoint_width=1.0 --Stackable_angle=60 --Stackable_height=2.0 --Stackable_holedistance=1.0 --Stackable_width=4.0 --Hinge_grip_percentage=0 --Hinge_outset=0 --Hinge_pinwidth=0.5 --Hinge_style=outset --Hinge_axle=2 --Hinge_grip_length=0 --Hinge_hingestrength=1 --CabinetHinge_bore=3.2 --CabinetHinge_eyes_per_hinge=5 --CabinetHinge_hinges=2 --CabinetHinge_style=inside --CabinetHinge_eye=1.5 --CabinetHinge_play=0.05 --CabinetHinge_spacing=2.0 --Lid_angle=90.0 --Lid_hole_width=0 --Lid_second_pin=0 --Lid_second_pin=1 --Lid_spring=both --Lid_style=rectangular --Lid_surroundingspaces=2.0 --Lid_edge_width=1.0 --Lid_finger=3.0 --Lid_play=0.05 --Lid_space=2.0 --Lid_width=1.0 --Click_angle=5.0 --Click_bottom_radius=0.1 --Click_depth=3.0 --RoundedTriangleEdge_height=150.0 --RoundedTriangleEdge_r_hole=2.0 --RoundedTriangleEdge_radius=30.0 --RoundedTriangleEdge_outset=1 '--sx=120*2' '--sy=120*2' --h=110.0 --hi=0.0 --outside=0 --outside=1 --bottom_edge=h --top_edge=e --gripheight=30 --gripwidth=70 --thickness=2.8 --format=svg --tabs=0.0 --debug=0 --labels=0 --labels=1 --reference=0 --burn=0.1
+Url: http://www.festi.info/TypeTray?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=0.5&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.0&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;Stackable_angle=60&amp;Stackable_height=2.0&amp;Stackable_holedistance=1.0&amp;Stackable_width=4.0&amp;Hinge_grip_percentage=0&amp;Hinge_outset=0&amp;Hinge_pinwidth=0.5&amp;Hinge_style=outset&amp;Hinge_axle=2&amp;Hinge_grip_length=0&amp;Hinge_hingestrength=1&amp;CabinetHinge_bore=3.2&amp;CabinetHinge_eyes_per_hinge=5&amp;CabinetHinge_hinges=2&amp;CabinetHinge_style=inside&amp;CabinetHinge_eye=1.5&amp;CabinetHinge_play=0.05&amp;CabinetHinge_spacing=2.0&amp;Lid_angle=90.0&amp;Lid_hole_width=0&amp;Lid_second_pin=0&amp;Lid_second_pin=1&amp;Lid_spring=both&amp;Lid_style=rectangular&amp;Lid_surroundingspaces=2.0&amp;Lid_edge_width=1.0&amp;Lid_finger=3.0&amp;Lid_play=0.05&amp;Lid_space=2.0&amp;Lid_width=1.0&amp;Click_angle=5.0&amp;Click_bottom_radius=0.1&amp;Click_depth=3.0&amp;RoundedTriangleEdge_height=150.0&amp;RoundedTriangleEdge_r_hole=2.0&amp;RoundedTriangleEdge_radius=30.0&amp;RoundedTriangleEdge_outset=1&amp;sx=120*2&amp;sy=120*2&amp;h=110.0&amp;hi=0.0&amp;outside=0&amp;outside=1&amp;bottom_edge=h&amp;top_edge=e&amp;gripheight=30&amp;gripwidth=70&amp;thickness=2.8&amp;format=svg&amp;tabs=0.0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=0&amp;burn=0.1&amp;render=1
+SettingsUrl: http://www.festi.info/TypeTray?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=0.5&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.0&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;Stackable_angle=60&amp;Stackable_height=2.0&amp;Stackable_holedistance=1.0&amp;Stackable_width=4.0&amp;Hinge_grip_percentage=0&amp;Hinge_outset=0&amp;Hinge_pinwidth=0.5&amp;Hinge_style=outset&amp;Hinge_axle=2&amp;Hinge_grip_length=0&amp;Hinge_hingestrength=1&amp;CabinetHinge_bore=3.2&amp;CabinetHinge_eyes_per_hinge=5&amp;CabinetHinge_hinges=2&amp;CabinetHinge_style=inside&amp;CabinetHinge_eye=1.5&amp;CabinetHinge_play=0.05&amp;CabinetHinge_spacing=2.0&amp;Lid_angle=90.0&amp;Lid_hole_width=0&amp;Lid_second_pin=0&amp;Lid_second_pin=1&amp;Lid_spring=both&amp;Lid_style=rectangular&amp;Lid_surroundingspaces=2.0&amp;Lid_edge_width=1.0&amp;Lid_finger=3.0&amp;Lid_play=0.05&amp;Lid_space=2.0&amp;Lid_width=1.0&amp;Click_angle=5.0&amp;Click_bottom_radius=0.1&amp;Click_depth=3.0&amp;RoundedTriangleEdge_height=150.0&amp;RoundedTriangleEdge_r_hole=2.0&amp;RoundedTriangleEdge_radius=30.0&amp;RoundedTriangleEdge_outset=1&amp;sx=120*2&amp;sy=120*2&amp;h=110.0&amp;hi=0.0&amp;outside=0&amp;outside=1&amp;bottom_edge=h&amp;top_edge=e&amp;gripheight=30&amp;gripwidth=70&amp;thickness=2.8&amp;format=svg&amp;tabs=0.0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=0&amp;burn=0.1
+</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <text
+     alignment-baseline="hanging"
+     font-size="4px"
+     style="font-style:normal;font-weight:normal;font-family:sans-serif;fill:#ff0000;stroke:#ff0000;stroke-width:0.352778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     text-anchor="middle"
+     id="text66"
+     x="120.98582"
+     y="522.21106" />
+  <g
+     id="g1883">
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.355172;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect522"
+       width="240.04483"
+       height="240.04483"
+       x="0.17758586"
+       y="0.17758586" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.378189;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1735"
+       cx="60.169895"
+       cy="59.951557"
+       r="39.810905" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.378189;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1735-3"
+       cx="179.99538"
+       cy="60.204109"
+       r="39.810905" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.378189;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1735-6"
+       cx="60.045532"
+       cy="179.84354"
+       r="39.810905" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.378189;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1735-7"
+       cx="180.56651"
+       cy="178.01193"
+       r="39.810905" />
+  </g>
+</svg>
