@@ -1,3 +1,7 @@
-To measure the weight or pressure applied by the dog
+Hardware
+========
 	https://www.aliexpress.com/item/4000781493675.html
-	
+
+How to make a scale with an ESP32
+=================================
+	https://www.electroniclinic.com/esp32-hx711-and-load-cell-based-digital-weighing-scale-iot-weighing-scale/
