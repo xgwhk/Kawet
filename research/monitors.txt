@@ -1,0 +1,22 @@
+monitors + driver board
+=======================
+	15"
+	https://www.aliexpress.com/item/4001319975147.html
+	https://www.aliexpress.com/item/1005003335585301.html
+	https://www.aliexpress.com/item/1005003335733288.html
+	https://www.aliexpress.com/item/1005003336693016.html
+	https://www.aliexpress.com/item/1005001487958041.html
+	https://www.aliexpress.com/item/1005001487477694.html
+	https://www.aliexpress.com/item/4001319975147.html
+	
+monitors + driver board + touch screen (is not required and bring-up more issues)
+======================================
+	10"
+	https://www.aliexpress.com/item/4000334879682.html
+	13"
+	https://www.aliexpress.com/item/1005002947433331.html
+	15"
+	https://www.aliexpress.com/item/33003527308.html
+	https://www.aliexpress.com/item/4000445859685.html
+	https://www.aliexpress.com/item/4001119993191.html
+	
