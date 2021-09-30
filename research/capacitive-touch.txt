@@ -1,0 +1,9 @@
+Arduino - easy capacitive touch setup
+=====================================
+	https://www.youtube.com/watch?v=lqg_Ze_OiiY
+
+Specific Hardware
+=================
+	https://learn.adafruit.com/adafruit-capacitive-touch-sensor-breakouts/build-a-capacitive-touch-control-panel
+	https://www.aliexpress.com/item/1005002117377236.html
+	
